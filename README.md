@@ -8,9 +8,9 @@
 
 ---
 
-# 📊 Dashboard de Pedidos – Análise de Vendas
+## 📝 Descrição do Projeto
 
-Este projeto apresenta uma **análise exploratória e visual de pedidos e faturamento**, desenvolvida a partir de dados extraídos de um banco de dados de pedidos.  
+Este projeto apresenta uma **análise exploratória e visual de pedidos e faturamento**, desenvolvida a partir de dados extraídos de um banco de dados da Escola DNC.  
 O objetivo é fornecer **insights estratégicos** sobre faturamento, clientes, vendas com e sem desconto e volume de produtos vendidos ao longo do tempo.
 
 ---
