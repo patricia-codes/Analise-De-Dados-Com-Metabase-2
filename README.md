@@ -2,8 +2,7 @@
 ### Projeto de Análise de Dados utilizando Metabase + Dataset da DNC
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![Ferramentas](https://img.shields.io/badge/Metabase-Analytics-blue)
-![Licença](https://img.shields.io/badge/License-MIT-lightgrey)
+![Ferramentas](https://img.shields.io/badge/Metabase-DNC-blue))
 ![Linguagem](https://img.shields.io/badge/Documentação-Markdown-yellow)
 
 ---
