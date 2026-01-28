@@ -101,10 +101,5 @@ https://dex.dnc.group/browse
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a **Licença MIT** — sinta-se à vontade para utilizar, modificar e compartilhar.
-
----
 
 ✨ *Projeto desenvolvido para fins educacionais e portfólio em Análise de Dados.*
